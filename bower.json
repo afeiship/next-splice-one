@@ -1,0 +1,28 @@
+{
+  "name": "next-splice-one",
+  "version": "0.0.1",
+  "description": "Between 1510x faster than the twoArg version of Array#splice()",
+  "main": "dist/next-splice-one.js",
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "next"
+  ],
+  "homepage": "https://github.com/afeiship/next-splice-one",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "build",
+    "src",
+    "gulp",
+    "gulpfile.js"
+  ]
+}
