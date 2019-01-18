@@ -10,7 +10,7 @@
     for (; inIndex + 1 < inArray.length; inIndex++) {
       inArray[inIndex] = inArray[inIndex + 1];
     }
-    return inArray.pop();
+    inArray.pop();
   };
 
   if (typeof module !== 'undefined' && module.exports) {

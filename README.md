@@ -8,5 +8,6 @@ npm install -S afeiship/next-splice-one --registry=https://registry.npm.taobao.o
 
 ## usage:
 ```js
-//DOCS here!
+var arr = ['a','b','c','d'];
+nx.spliceOne(arr,2)
 ```
